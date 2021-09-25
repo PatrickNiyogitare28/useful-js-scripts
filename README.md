@@ -1,5 +1,5 @@
 # useful-js-scripts
-Open repo containing useful js scripts for hashings, encrypters, ecrypters, encoders , decoders, node pipeline scripts etc. Pull request are open for cotributions
+Open repo containing useful js scripts for hashings, encrypters, ecrypters, encoders , decoders, node pipeline scripts, shell scripts etc. Pull request are open for cotributions
 
 ## Getting started
 - [X] folk the [Repo](https://github.com/PatrickNiyogitare28/useful-js-scripts)
